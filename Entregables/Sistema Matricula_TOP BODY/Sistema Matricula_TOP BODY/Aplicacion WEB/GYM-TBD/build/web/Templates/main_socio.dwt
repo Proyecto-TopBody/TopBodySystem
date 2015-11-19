@@ -1,0 +1,87 @@
+
+<html><head>
+    <!-- TemplateBeginEditable name="doctitle" -->
+    <title>Top Gym</title>
+    <!-- TemplateEndEditable -->
+    <link href="../CSS.css" rel="stylesheet" type="text/css">
+    <!-- TemplateBeginEditable name="head" -->
+    <!-- TemplateEndEditable -->
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <style type="text/css">
+    body {
+	background-image: url();
+	background-color: #333;
+}
+    </style>
+    <link href="../CSS.css" rel="stylesheet" type="text/css">
+    </head>
+    <body>
+    <br>
+    <table width="900" border="0" align="center">
+      <tr class="fondo_blanco">
+        <td width="891"><img src="../IMAGES/LOGO_PROV.jpg" width="351" height="100"></td>
+      </tr>
+      <tr>
+        <td bgcolor="#000000">
+        
+        <ul id="nav">
+        	<li> <a href="#">PROMOCIONES</a> </li>
+        	<li> <a href="VerAsistenciaSocio.jsp">ASISTENCIAS</a> </li>
+            <li> <a href="Rutina.jsp">RUTINA</a> </li>
+            <li> <a href="TB_Alimentacion.jsp">ALIMENTACION</a> </li>
+            <li> <a href="TB_FreezingSocio.jsp">FREEZING</a> </li>
+            <li> <a href="TB_CitaMedicaSocio.jsp">CITA MEDICA</a> </li>
+            <li><a href="Login.jsp">SALIR</a></li>
+        </ul>
+        
+        </td>
+      </tr>
+      
+      <tr>
+        <td align="center">
+        
+            
+            <table width="896" border="0">
+            <tr>
+                
+                <td width="744" rowspan="2" align="center" valign="top" class="fondo_main">
+                
+                <table width="765" border="0" align="center">
+                  <tr>
+                    <td width="20">&nbsp;</td>
+                    <td width="693"><!-- TemplateBeginEditable name="EditRegion1" -->EditRegion1<!-- TemplateEndEditable --></td>
+                    <td width="20">&nbsp;</td>
+                  </tr>
+                  <tr>
+                    <td>&nbsp;</td>
+                    <td width="693">&nbsp;</td>
+                    <td width="20">&nbsp;</td>
+                  </tr>
+              	</table>
+                
+              </td>
+              
+              <td width="130" align="center" valign="top" class="fondo_negro">
+			  <!-- TemplateBeginEditable name="EditRegion2" -->
+			  
+			  <!-- TemplateEndEditable -->
+              
+              </td>
+              
+            </tr>
+            <tr>
+              <td align="center" valign="top" class="fondo_negro">
+                <img src="../IMAGES/LOGO_PROV2.png">
+              </td>
+            </tr>
+            </table>
+            
+        
+        </td>
+      </tr>
+      <tr class="down">
+        <td>Top Body - todos lo derechos reservados 2014 | UNFV</td>
+      </tr>
+    </table>
+    </body>
+</html>
