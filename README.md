@@ -1,15 +1,12 @@
-#UNIVERSIDAD TECNOLOGICA DEL PERU
-# ESC. INGENIERIA DE SOFTWARE
+# UNIVERSIDAD TECNOLOGICA DEL PERU
+# FISE
+# ESC. ING. SOFTWARE
 #
-# Proyecto de Desarrollo I
-# ======================
+# **Proyecto de Desarrollo I
+#   *Proyecto TopBody
 #
-# Proyecto TopBody
-# ================
-#
-# SistemaDeMatricula-ParaSocios-TopBody
-# Sistema De Matricula Para Socios del Gimnasio TopBoby
+# - Sistema De Matricula Para Socios TopBody
+#     -  Sistema De Matricula Para Socios del Gimnasio TopBoby
 #
 #
 #
-# ----------------------- O --------------------------
